@@ -1,1 +1,4 @@
 :set prompt "ghci> "
+
+-- FileName = ****
+:l ****
